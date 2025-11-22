@@ -69,7 +69,7 @@ The HR Management System is a full-stack deployed application demonstrating huma
 
 **Backend API:** https://hr-management-system.onrender.com
 
-**Frontend:** Deploy to Netlify and update link
+**Frontend:** https://hr-management-system-evallo.netlify.app
 
 ## Getting Started
 
